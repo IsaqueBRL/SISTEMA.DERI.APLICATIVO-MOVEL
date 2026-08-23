@@ -1,7 +1,7 @@
 {
   "name": "Vendas - Mobile",
   "short_name": "Vendas",
-  "start_url": "./index_MOBILE.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f4f7f6",
