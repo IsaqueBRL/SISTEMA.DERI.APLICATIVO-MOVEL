@@ -6,7 +6,7 @@
 
 const CACHE_NAME = "vendas-mobile-v1";
 const ASSETS_TO_CACHE = [
-  "./index_MOBILE.html",
+  "./index.html",
   "./manifest.json",
   "./icon-192.png",
   "./icon-512.png"
